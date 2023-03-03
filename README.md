@@ -1,2 +1,4 @@
 # 5-SEM-topicos-especiais
-PRADO
+IFSP GRU - PRADO
+VSCODE E IONIC
+https://ionicframework.com/docs/intro/cli
